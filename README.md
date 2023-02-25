@@ -7,7 +7,7 @@ Python3 script to convert epub files to txt.
 
 ```sh
 # setup virtual env (optional)
-python3 -m venv venv
+python3 -m venv epub2txt
 source venv/bin/activate
 
 # install deps
